@@ -1,0 +1,14 @@
+{
+  "name": "3",
+  "version": "1.0.0",
+  "description": "https://adventofcode.com/2019/day/3",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node --max-old-space-size=16384 out/$npm_package_main"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.12.14"
+  }
+}
