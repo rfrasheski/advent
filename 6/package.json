@@ -1,0 +1,16 @@
+{
+  "name": "6",
+  "version": "1.0.0",
+  "description": "day 6",
+  "main": "out/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node $npm_package_main"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.12.14",
+    "typescript": "^3.7.2"
+  }
+}
